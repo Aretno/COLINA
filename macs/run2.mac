@@ -6,7 +6,7 @@
 # in the UI.
 
 
-/analysis/filename 'test4.root'
+/analysis/setFileName test5.root
 /run/beamOn 1000
 
 # /control/verbose 2
